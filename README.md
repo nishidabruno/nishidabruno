@@ -1,6 +1,4 @@
 ### Hi there 👋
-<strong>My name is Bruno. 🐱‍🚀</strong>
-<p>Currently living in Japan, looking for opportunities.</p>
 
 ## Here are some technologies I use
 <div>
