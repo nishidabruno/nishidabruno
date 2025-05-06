@@ -1,6 +1,9 @@
-### building now <a href="https://www.canvasit.design/" target="_blank">Canvasit</a>
+### Building the next-gen canvas for artists and designers <a href="https://www.canvasit.design/" target="_blank">Canvasit</a>
+![Frame 19](https://github.com/user-attachments/assets/d30fe78b-ce4a-4147-ab4e-c8b17aa86b2f)
 
-## work with
+
+
+##
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
