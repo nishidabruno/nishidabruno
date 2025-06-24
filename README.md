@@ -1,5 +1,5 @@
 ### Building the next-gen canvas for artists and designers <a href="https://www.canvasit.design/" target="_blank">Canvasit</a>
-![Frame 19](https://github.com/user-attachments/assets/d30fe78b-ce4a-4147-ab4e-c8b17aa86b2f)
+![canvasit](https://github.com/user-attachments/assets/38146701-6352-4331-b0b9-140203f50030)
 
 
 
